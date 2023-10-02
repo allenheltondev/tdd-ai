@@ -1,0 +1,17 @@
+{
+  "name": "tdd-ai",
+  "version": "1.0.0",
+  "description": "Runs an augmented version of TDD to generate your code based on unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "allenheltondev",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.3.1",
+    "openai": "^4.10.0",
+    "util": "^0.12.5"
+  }
+}

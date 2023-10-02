@@ -1,0 +1,16 @@
+{
+  "name": "get-data",
+  "version": "1.0.0",
+  "description": "Loads data from DynamoDB",
+  "main": "get-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allenheltondev",
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-sdk/client-dynamodb": "^3.421.0",
+    "@aws-sdk/util-dynamodb": "^3.421.0",
+    "aws-sdk-client-mock": "^3.0.0"
+  }
+}
