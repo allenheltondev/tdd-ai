@@ -4,7 +4,7 @@ This is a proof of concept showing how you can use Generative AI to write your c
 
 ## How it works
 
-![Workflow of the script](https://readysetcloud.s3.amazonaws.com/tdd_with_ai_1.png)
+![Workflow of the script](./lib/workflow.png)
 
 This script uses OpenAI to generate code that satisfies a set of unit tests. When you run it, the following actions will be performed:
 
